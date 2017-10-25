@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Paul Hanaoka](https://github.com/plhnk)
+- Place: Los Angeles, California, USA
+- Bio: Designer, Liferay — Open Source for Life!
+- GitHub: [plhnk](https://github.com/plhnk)
